@@ -3,7 +3,7 @@ Site em que você digita uma pergunta e ele adivinha o seu destino, realizado du
 
 ![Google - Google Chrome 22_07_2022 18_05_08](https://user-images.githubusercontent.com/93893533/180569239-e7900ed8-53c0-4bef-add6-db8bce1cc112.png)
 
- <h3><a href="https://johnpetros.github.io/adivinhador_de_destino/">Veja o Site funcionando 👀</a></h3>
+ <h3><a href="https://johnpetros.github.io/adivinhador_de_destino/">Veja o Site funcionando</a></h3>
 
  🚀 Tecnologias utilizadas
 
